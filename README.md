@@ -1,1 +1,1 @@
-# PACMAN
+# Snake-game
